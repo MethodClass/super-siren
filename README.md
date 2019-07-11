@@ -1,5 +1,7 @@
 # Super-Siren #
 
+# Super siren fork with validation field added#
+
 ## Description ##
 
 [SIREN](https://github.com/kevinswiber/siren) Hypermedia client library which process SIREN HTTP responses into immutable SIREN representations utilizing [superagent](https://github.com/visionmedia/superagent) for the underlying HTTP requests. All superagent requests are wrapped with [superagent-promise](https://github.com/lightsofapollo/superagent-promise) which exposes [Bluebird](https://github.com/petkaantonov/bluebird) promises for processing http requests.
